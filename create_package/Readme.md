@@ -1,4 +1,6 @@
 
+
+```cmd
 mkdir ~/catkin_ws/src
 cd ~/catkin_ws/src
 # create the package
@@ -7,3 +9,4 @@ cd ..
 catkin_make
 source ./devel/setup.bash
 rospack depends1 create_pkg
+```
