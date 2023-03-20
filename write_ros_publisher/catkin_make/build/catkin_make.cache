@@ -1,0 +1,2 @@
+write_ros
+-DCATKIN_DEVEL_PREFIX=/home/knghia/dev/ros/write_ros_publisher/catkin_make/devel -DCMAKE_INSTALL_PREFIX=/home/knghia/dev/ros/write_ros_publisher/catkin_make/install -G Unix Makefiles

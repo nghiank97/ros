@@ -1,0 +1,8 @@
+prefix=/home/knghia/dev/ros/write_ros_publisher/catkin_make/install
+
+Name: write_ros
+Description: Description of write_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

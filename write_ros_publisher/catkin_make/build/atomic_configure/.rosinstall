@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/knghia/dev/ros/write_ros_publisher/catkin_make/devel/setup.sh
