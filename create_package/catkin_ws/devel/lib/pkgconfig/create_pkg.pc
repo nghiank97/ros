@@ -1,0 +1,8 @@
+prefix=/home/knghia/dev/ros/create_package/catkin_ws/devel
+
+Name: create_pkg
+Description: Description of create_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

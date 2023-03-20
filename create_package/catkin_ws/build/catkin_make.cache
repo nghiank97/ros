@@ -1,0 +1,2 @@
+create_pkg
+-DCATKIN_DEVEL_PREFIX=/home/knghia/dev/ros/create_package/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/knghia/dev/ros/create_package/catkin_ws/install -G Unix Makefiles
